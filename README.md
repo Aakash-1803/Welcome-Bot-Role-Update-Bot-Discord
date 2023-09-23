@@ -6,3 +6,4 @@ Here's how it operates: whenever a new user receives a role update, it will shar
 
 ![ezgif com-video-to-gif (1)](https://github.com/Aakash-1803/Welcome-Bot-Role-Update-Bot-Discord/assets/145561585/28afc91d-6b3d-4e5f-b043-717685c36c44)
 
+
